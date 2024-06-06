@@ -685,9 +685,9 @@ special Thanks To ❤️ Developers -
 
 -Dev 2 <a href='https://t.me/+fieto73X1TU5Mzk1'>Aw</a>
 
--Dev 3 <a href='https://t.me/vj_botz>VJ Botz</a>
+-Dev 3 <a href='https://t.me/+NITVxLchQhYzNGZl>AW Botz</a>
 
-- Dev 4 <a href='https://t.me/vj_bots'>TEAM VJ</a>
+- Dev 4 <a href='https://t.me/+NITVxLchQhYzNGZl'>TEAM AW</a>
 """
 
     RENAME_TXT = """
